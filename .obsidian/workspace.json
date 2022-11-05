@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "a0736c0b5f1a7d77",
+    "type": "split",
+    "children": [
+      {
+        "id": "252e72f37e74d824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c654dffbb92bce82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dc07c6ed40123bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e48ccaa4b37c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e807db69bd7f5505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6551c530f28198a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53a9c9e1b15b8cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa7171c1ec3c715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d7c4049e56e15d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2664f67f2f5695b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e807db69bd7f5505",
+  "lastOpenFiles": [
+    "Tempo de resposta médio.md",
+    "Probabilidade de haver fila.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso médio fim a fim.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso médio na fila em enlace.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+    "Taxa de acerto local.md",
+    "Conceitos básicos/Comutador.md",
+    "Taxa de transmissão.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso total fim a fim.md",
+    "Velocidade de propagação.md"
+  ]
+}
