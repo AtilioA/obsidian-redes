@@ -1,1 +1,2 @@
- 
+Vários [[Pacote|pacotes]] podem chegar para [[comutação de pacotes]] ao mesmo tempo. Se esses $n$ pacotes tiverem de ser encaminhados pelo mesmo [[enlace]] de saída, $n-1$ terão de ser enfileirados, isto é, esperarem para serem transmitidos. Esta espera introduz o atraso de fila.
+Ainda, se a fila se tornar muito grande, o buffer pode se exaurir, fazendo com que pacotes sejam largados ou '*perdidos*'.

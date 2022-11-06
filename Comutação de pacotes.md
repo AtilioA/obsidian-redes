@@ -1,0 +1,1 @@
+https://pt.wikipedia.org/wiki/Comuta%C3%A7%C3%A3o_de_pacotes

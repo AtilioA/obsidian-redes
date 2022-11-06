@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "252e72f37e74d824",
+        "id": "c16f560a7a6c0278",
         "type": "tabs",
         "children": [
           {
-            "id": "c654dffbb92bce82",
+            "id": "c810d6dc847ab815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+                "file": "Comutação de pacotes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transmissão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53a9c9e1b15b8cb3",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+                "file": "Comutação de pacotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md"
+                "file": "Comutação de pacotes.md"
               }
             }
           }
@@ -106,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e807db69bd7f5505",
+  "active": "c810d6dc847ab815",
   "lastOpenFiles": [
-    "Tempo de resposta médio.md",
-    "Probabilidade de haver fila.md",
-    "Comutação de pacotes/Tipos de atraso/Atraso médio fim a fim.md",
-    "Comutação de pacotes/Tipos de atraso/Atraso médio na fila em enlace.md",
-    "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
-    "Taxa de acerto local.md",
-    "Conceitos básicos/Comutador.md",
-    "Taxa de transmissão.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso de fila.md",
+    "Conceitos básicos/Pacote.md",
     "Comutação de pacotes/Tipos de atraso/Atraso total fim a fim.md",
-    "Velocidade de propagação.md"
+    "Atraso de transmissão.md",
+    "Taxa de transmissão.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+    "Comutação de pacotes/Tipos de atraso/_anexos/Pasted image 20221105225508.png",
+    "Comutação de pacotes/Tipos de atraso/_anexos/Pasted image 20221105225503.png",
+    "Comutação de pacotes.md",
+    "Tempo de resposta médio.md"
   ]
 }
