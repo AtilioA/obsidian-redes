@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comutação de pacotes.md",
+                "file": "Comutação de pacotes/Perda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53a9c9e1b15b8cb3",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comutação de pacotes.md",
+                "file": "Comutação de pacotes/Perda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comutação de pacotes.md"
+                "file": "Comutação de pacotes/Perda.md"
               }
             }
           }
@@ -110,14 +109,14 @@
   "active": "c810d6dc847ab815",
   "lastOpenFiles": [
     "Comutação de pacotes/Tipos de atraso/Atraso de fila.md",
-    "Conceitos básicos/Pacote.md",
-    "Comutação de pacotes/Tipos de atraso/Atraso total fim a fim.md",
-    "Atraso de transmissão.md",
-    "Taxa de transmissão.md",
+    "Comutação de pacotes/Perda.md",
+    "Comutação de pacotes/Comutação de pacotes.md",
+    "Comutação de pacotes/Atraso.md",
+    "Comutação de pacotes/Vazão.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
-    "Comutação de pacotes/Tipos de atraso/_anexos/Pasted image 20221105225508.png",
-    "Comutação de pacotes/Tipos de atraso/_anexos/Pasted image 20221105225503.png",
-    "Comutação de pacotes.md",
-    "Tempo de resposta médio.md"
+    "Comutação de pacotes/Tipos de atraso/Atraso de transmissão.md",
+    "Tempo mínimo de distribuição.md",
+    "Velocidade de propagação.md",
+    "Conceitos básicos/Pacote.md"
   ]
 }

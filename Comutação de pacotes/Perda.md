@@ -1,0 +1,1 @@
+A perda de pacotes acontece quando o buffer da fila de [[Pacote|pacote]] na [[comutação de pacotes]]
