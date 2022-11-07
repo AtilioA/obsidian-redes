@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "a0736c0b5f1a7d77",
+    "id": "92cc41fbe6d82cee",
     "type": "split",
     "children": [
       {
-        "id": "c16f560a7a6c0278",
+        "id": "0d8588a2d3bb6417",
         "type": "tabs",
         "children": [
           {
-            "id": "c810d6dc847ab815",
+            "id": "5a91b12a1f98bdc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comutação de pacotes/Perda.md",
+                "file": "Conceitos básicos/Enlace.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5dc07c6ed40123bf",
+    "id": "f9623b1cb4c03cd4",
     "type": "split",
     "children": [
       {
-        "id": "90e48ccaa4b37c9c",
+        "id": "8fe2d322224c2bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "e807db69bd7f5505",
+            "id": "2a09e708589b4a3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +43,12 @@
             }
           },
           {
-            "id": "e6551c530f28198a",
+            "id": "1cf2db3c8ad514fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "transmissão",
+                "query": "forward",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,28 +56,38 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "617790c4ae08eb87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "53a9c9e1b15b8cb3",
+    "id": "015b149e73b77e6c",
     "type": "split",
     "children": [
       {
-        "id": "8aa7171c1ec3c715",
+        "id": "798ef2e62b95e9d9",
         "type": "tabs",
         "children": [
           {
-            "id": "41d7c4049e56e15d",
+            "id": "a171b5f77ef3b263",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comutação de pacotes/Perda.md",
+                "file": "Conceitos básicos/Enlace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,12 +99,35 @@
             }
           },
           {
-            "id": "2664f67f2f5695b0",
+            "id": "6983b7d02b197c13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conceitos básicos/Enlace.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea49f5ff53a274ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "834f450f08926552",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comutação de pacotes/Perda.md"
+                "file": "Conceitos básicos/Enlace.md"
               }
             }
           }
@@ -106,17 +138,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c810d6dc847ab815",
+  "active": "5a91b12a1f98bdc2",
   "lastOpenFiles": [
-    "Comutação de pacotes/Tipos de atraso/Atraso de fila.md",
-    "Comutação de pacotes/Perda.md",
-    "Comutação de pacotes/Comutação de pacotes.md",
-    "Comutação de pacotes/Atraso.md",
-    "Comutação de pacotes/Vazão.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso médio na fila em enlace.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso de fila.md",
+    "Conceitos básicos/Enlace.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de transmissão.md",
-    "Tempo mínimo de distribuição.md",
-    "Velocidade de propagação.md",
-    "Conceitos básicos/Pacote.md"
+    "Comutação de pacotes/Tipos de atraso/Atraso total fim a fim.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso de processamento.md",
+    "Comutação de pacotes/Tipos de atraso/Atraso total fim a fim de um enlace.md",
+    "Velocidade de propagação.md"
   ]
 }
