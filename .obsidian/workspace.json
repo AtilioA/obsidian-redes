@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos básicos/Enlace.md",
+                "file": "Packet switching - Probabilidade de um estar transmitindo e os outros não.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos básicos/Enlace.md",
+                "file": "Packet switching - Probabilidade de um estar transmitindo e os outros não.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos básicos/Enlace.md",
+                "file": "Packet switching - Probabilidade de um estar transmitindo e os outros não.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos básicos/Enlace.md"
+                "file": "Packet switching - Probabilidade de um estar transmitindo e os outros não.md"
               }
             }
           }
@@ -140,10 +140,10 @@
   },
   "active": "5a91b12a1f98bdc2",
   "lastOpenFiles": [
+    "Conceitos básicos/Enlace.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de propagação.md",
     "Comutação de pacotes/Tipos de atraso/Atraso médio na fila em enlace.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de fila.md",
-    "Conceitos básicos/Enlace.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de transmissão.md",
     "Comutação de pacotes/Tipos de atraso/Atraso total fim a fim.md",
     "Comutação de pacotes/Tipos de atraso/Atraso de processamento.md",
