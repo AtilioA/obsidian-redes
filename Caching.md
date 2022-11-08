@@ -1,2 +1,0 @@
-*Caching* é a ação de salvar uma cópia local de uma pedaço de informação requisitado, que é obtido de um local distante, de forma que, caso a mesma informação seja solicitada novamente, ela possa ser recuperada do cache local, em vez de ser recuperada da fonte distante.
-Caching pode melhorar a performance ao diminuir o tempo de resposta.
