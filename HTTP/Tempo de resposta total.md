@@ -1,2 +1,0 @@
-É o tempo transcorrido entre a requisição de um objeto feita pelo navegador e o recebimento dele.
-É a soma do atraso da LAN, do atraso de acesso (entre os dois roteadores) e o atraso da Internet (em geral, [[RTT]]).
