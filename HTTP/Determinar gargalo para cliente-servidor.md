@@ -1,1 +1,1 @@
-Resume-se a obter o maior termo dentre os três considerados no cálculo do [[tempo mínimo de distribuição P2P]].
+Resume-se a obter o maior termo dentre os dois considerados no cálculo do [[tempo mínimo de distribuição cliente-servidor]].
