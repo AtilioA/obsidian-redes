@@ -7,3 +7,6 @@ Mais especificamente:
 4. Esta e outras verificações (como determinar próximo destino), por sua vez, provocam [[atraso de processamento]];
 5. Repita os passos 2., 3. e 4. até chegar ao último enlace;
 6. Por fim, teremos um atraso de propagação para o *end system*.
+
+Livro:
+![[Pasted image 20221108194443.png]]

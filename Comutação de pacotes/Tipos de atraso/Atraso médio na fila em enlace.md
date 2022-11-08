@@ -1,5 +1,4 @@
-## Exemplo:
-$N$ [[Pacote|pacotes]] chegam simultaneamente em um [[enlace]] com [[Taxa de transmissão]] $R$, não possuindo fila e nem servindo pacotes. Cada pacote possui tamanho $L$. 
+$N$ [[Pacote|pacotes]] chegam simultaneamente em um [[enlace]] com [[taxa de transmissão]] $R$, não possuindo fila e nem servindo pacotes. Cada pacote possui tamanho $L$. 
 
 **Qual é o atraso médio na fila**?
 1. Para o primeiro pacote, é 0;
