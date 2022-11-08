@@ -1,0 +1,2 @@
+- **Não persistente**: uma nova conexão TCP deve ser estabelecida toda vez que o cliente se comunica com o servidor.
+- **Persistente**: múltiplas requisições GET HTTP podem ser enviadas através de uma única conexão TCP, resultando em ganhos de performance comparado ao método não persistente.

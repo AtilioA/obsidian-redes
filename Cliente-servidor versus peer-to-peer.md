@@ -1,0 +1,2 @@
+- ***Cliente-servidor***: um cliente requisita um servido ao enviar uma ou mais mensagens a um servidor. O servidor implementa um serviço ao ler a requisição do cliente, performando alguma ação, e enviando um ou mais mensagens em uma resposta (no caso de HTTP, um objeto requisitado).
+- ***Peer-to-peer***: comparado ao paradigma cliente-servidor, aqui os dois lados do protocolo são iguais, como em uma chamada de telefone.
