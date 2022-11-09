@@ -7,3 +7,4 @@ $N$ [[Pacote|pacotes]] chegam simultaneamente em um [[enlace]] com [[taxa de tra
 4. $\vdots$
 5. $(N - 1)\frac{L}{R}$ para o último.
 Somando (indução matemática) e dividindo por $N$ para tirar a média, teremos $(N-1)\frac{L}{2R}$.
+
