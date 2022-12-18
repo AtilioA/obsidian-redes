@@ -1,0 +1,1 @@
+O UDP é um protocolo de transporte não orientado a conexões que não oferece o mesmo nível de confiabilidade, mas é mais rápido e mais eficiente para certos tipos de aplicações. A

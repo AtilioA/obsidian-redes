@@ -1,0 +1,1 @@
+Remonta as mensagens a partir dos [[Segmento|segmentos]] e repassa-as para a camada de aplicação.
