@@ -1,8 +1,19 @@
-
-Go-Back-N é um algoritmo de [[sliding window protocol]] que é utilizado em redes de computadores para garantir a entrega confiável de dados. 
+---
+alias: GBN
+---
+Go-Back-N ou *GBN*, ou ainda *GBN ARQ* é um algoritmo de [[sliding window protocol]] que é utilizado em redes de computadores para garantir a entrega confiável de dados. 
 Este algoritmo permite que o remetente envie vários quadros de dados sem esperar por confirmações individuais de cada quadro. Em vez disso, o remetente:
 1. Espera por uma confirmação geral após um certo número de quadros terem sido enviados.
 2. Se o receptor não conseguir receber um quadro corretamente, ele envia uma mensagem de erro para o remetente, indicando que os quadros anteriores precisam ser reenviados.
+![[Pasted image 20221219175416.png]]
+
+>[!NOTE] Características
+>- Envia pacotes N em paralelo
+>- Utiliza temporizador
+>- Utiliza ACK cumulativo (reenvia se receber ACK duplicado)
+>- Descarta pacotes fora de ordem
+>- Reenvia todos os pacotes após o perdido
+
 
 Go-Back-N é um algoritmo eficiente para redes com erros de transmissão raros, mas pode ser menos eficiente em redes com erros de transmissão mais frequentes, pois o remetente precisa reenviar todos os quadros desde o início da janela até o quadro que foi recebido incorretamente.
 Ele precisa enviar um tamanho de janela de N e receber um tamanho de janela de 1. Quando um quadro é recebido que está corrompido, o receptor descartará silenciosamente esse quadro e o remetente reenviará o quadro correto após o temporizador de tempo limite expirar.
