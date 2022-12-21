@@ -2,4 +2,4 @@ Flow control reduz a possibilidade do emissor causar overflow no buffer do recep
 
 Flow control deve ser distinguido do [[Congestionamento TCP|controle de congestionamento]], que é usado para controlar o fluxo de dados quando o congestionamento ***de fato*** ocorreu.
 
-Engloba *stop-and-wait*, *[[sliding window protocol]]*, *[[Go-Back-N]]*.
+Engloba *stop-and-wait*, *[[Sliding window protocol]]*, *[[Go-Back-N]]*.

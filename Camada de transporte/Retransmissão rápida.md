@@ -1,5 +1,5 @@
 Em fast recovery ou fast retransmit, um remetente retransmite rapidamente um pacote que foi perdido ou corrompido durante a transmissão, **sem esperar por um tempo limite** ou outra indicação de que o pacote não foi recebido corretamente.
-**Ele é acionado quando 3 [[Acknowledgement|ACKs]] duplicados são recebidos para o mesmo [[segmento]] de dados.** Ele permite uma retransmissão de segmentos/pacotes perdidos sem esperar pela expiração de um timer de retransmissão retransmission timer to expire. Depois da retransmissão, o remetente continua a transmitir dados normalmente.
+**Ele é acionado quando 3 [[Acknowledgement|ACKs]] duplicados são recebidos para o mesmo [[segmento]] de dados.** Ele permite uma retransmissão de segmentos/pacotes perdidos sem esperar pela expiração de um timer de retransmissão. Depois da retransmissão, o remetente continua a transmitir dados normalmente.
 Isso pode ajudar a melhorar a eficiência e confiabilidade de uma rede, reduzindo o tempo gasto esperando por pacotes perdidos serem retransmitidos.
 
 ## Exemplo
